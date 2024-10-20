@@ -1,0 +1,9 @@
+# VENV not included
+venv/
+venv.*
+
+# Environment variables
+.env
+
+# Data
+data/
