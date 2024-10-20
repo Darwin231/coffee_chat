@@ -1,0 +1,9 @@
+ipykernel
+langchain_community
+tiktoken
+langchain-openai
+langchainhub
+chromadb
+langchain
+requests
+sentence_transformers==3.2.0
